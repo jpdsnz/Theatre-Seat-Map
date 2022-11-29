@@ -5,5 +5,5 @@
   - Stack & Queue
   - Function Pointer
   
-Info:
+🎬 Info:
   - Program for seating arrangements 
